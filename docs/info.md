@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Same thing as the Tiny Tapeout project but replaced all inverters with NAND gates
 
 ## How to test
 
-Explain how to use your project
+Run and see that it is identical to Tiny Tapeout but without inverters
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+7 segment display, 
